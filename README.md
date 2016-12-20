@@ -13,6 +13,9 @@
 　　能用final修饰的变量就用final修饰，编译器会对此作出优化，具体可以研究 用final 和 不用 final 时class文件的区别
 
 
+## 拓展
+1. [Android进程保活方案](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8)
+
 ## 开发中遇到的偏门问题
 
 1. **ScrollerView** 设置 **match_parent** 依然无法撑满全屏的问题，可以通过设置 **fillViewport** 为 **true**解决，这样 **ScrollerView** 就不会去计算子View的高度了。
