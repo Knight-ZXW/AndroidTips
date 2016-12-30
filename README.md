@@ -13,6 +13,9 @@
 　　能用final修饰的变量就用final修饰，编译器会对此作出优化，具体可以研究 用final 和 不用 final 时class文件的区别
 
 ## Android性能优化系列
+[胡凯翻译的Android性能优化典范-非常全面](http://hukai.me/)
+
+## Material Design
 
 ### 
 ### SharePreference
