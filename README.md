@@ -14,7 +14,7 @@
 
 ## Android性能优化系列
 [胡凯翻译的Android性能优化典范-非常全面](http://hukai.me/)
-
+[Android 启动界面加载优化](https://gold.xitu.io/post/5874bff0128fe1006b443fa0)
 ## Material Design
 
 ### 
