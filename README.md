@@ -12,12 +12,15 @@
 
 　　能用final修饰的变量就用final修饰，编译器会对此作出优化，具体可以研究 用final 和 不用 final 时class文件的区别
 
+## 从零开始系列
+[markzhai的 2016 从零开始的Android新系列](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
 ## Android性能优化系列
 [胡凯翻译的Android性能优化典范-非常全面](http://hukai.me/)
 [Android 启动界面加载优化](https://gold.xitu.io/post/5874bff0128fe1006b443fa0)
+
 ## Material Design
 
-### 
+## Android 组件的使用 
 ### SharePreference
 1. [不要滥用 SharePreference](https://zhuanlan.zhihu.com/p/22913991) 
 
