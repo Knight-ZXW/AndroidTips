@@ -30,3 +30,7 @@
 ## 开发中遇到的偏门问题
 
 1. **ScrollerView** 设置 **match_parent** 依然无法撑满全屏的问题，可以通过设置 **fillViewport** 为 **true**解决，这样 **ScrollerView** 就不会去计算子View的高度了。
+
+## 进阶需要了解的原理
+
+1 EventBus RxJava Retrofit 的使用及源码分析
