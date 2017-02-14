@@ -21,9 +21,17 @@
 ## Material Design
 
 ## Android 组件的使用 
+
 ### SharePreference
 1. [不要滥用 SharePreference](https://zhuanlan.zhihu.com/p/22913991) 
 
+
+## 音视频
+
+[Camera	实时滤镜方法探讨](http://blog.csdn.net/oshunz/article/details/49862273)
+#### 相关项目源码
+
+[RMTP滤镜](https://github.com/begeekmyfriend/yasea)
 ## 拓展
 1. [Android进程保活方案介绍](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8)
 
