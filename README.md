@@ -32,6 +32,12 @@
 #### 相关项目源码
 
 [RMTP滤镜](https://github.com/begeekmyfriend/yasea)
+
+## 高低层架构方面
+[AOP思想在Android中的运用](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/)
+
+
+
 ## 拓展
 1. [Android进程保活方案介绍](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8)
 
