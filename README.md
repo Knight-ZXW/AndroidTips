@@ -48,3 +48,6 @@
 ## 进阶需要了解的原理
 
 1 EventBus RxJava Retrofit 的使用及源码分析
+
+## 开发效率
+[高效Android开发者的工具库](http://mp.weixin.qq.com/s?__biz=MzA3OTk4ODkwNA==&mid=2449245750&idx=1&sn=e7ed423c4a52aabfa2e7d2684cb85abf&chksm=8ba337f1bcd4bee7797050bc4e1cad33853e5b782ec088e9f189fca14ddf6de7a86a6311b7e3&scene=0#rd)
