@@ -41,7 +41,8 @@
 ## 拓展
 1. [Android进程保活方案介绍](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8)
 
-## 开发中遇到的偏门问题
+## 开发中使用第三方库解决的小问题
+1.[Android超大图显示](https://github.com/davemorrissey/subsampling-scale-image-view)
 
 1. **ScrollerView** 设置 **match_parent** 依然无法撑满全屏的问题，可以通过设置 **fillViewport** 为 **true**解决，这样 **ScrollerView** 就不会去计算子View的高度了。
 
@@ -52,5 +53,9 @@
 ## 开发效率
 [高效Android开发者的工具库](http://mp.weixin.qq.com/s?__biz=MzA3OTk4ODkwNA==&mid=2449245750&idx=1&sn=e7ed423c4a52aabfa2e7d2684cb85abf&chksm=8ba337f1bcd4bee7797050bc4e1cad33853e5b782ec088e9f189fca14ddf6de7a86a6311b7e3&scene=0#rd)
 
+
+## 一些小需求推荐的第三方库
+
 ## 面试
 [阿里实习面试-1](http://www.jianshu.com/p/cf5092fa2694?utm_source=desktop&utm_medium=timeline)
+
